@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 185.26 228.39" version="1.1">
+  <path id="path3054" d="m132.42 200.77c-2.407-3.9347-6.4674-14.854-11.251-30.257-3.7365-12.031-12.388-30.756-14.21-30.756-0.51558 0-0.60768 2.1474-0.20471 4.772 0.49442 3.2211 0.23218 4.7719-0.80724 4.7719-0.84683 0-1.4364 1.0737-1.3102 2.386 0.40942 4.2538-0.0155 4.5302-3.3797 2.2-3.1975-2.2144-3.4267-2.1731-6.6108 1.1926-2.0131 2.1278-3.2911 5.002-3.2794 7.3753 0.02967 5.9682-1.8083 7.2974-10.09 7.2974-4.1237 0-9.1317 0.71303-11.129 1.5845-1.9972 0.87147-6.4693 1.6924-9.9381 1.8242 0 0-5.5288 2.1944-6.3069 0.23977 1.221-2.5728 7.8318-7.496 10.925-7.7021 1.3534-0.0227 2.1224-1.4031 2.9809-1.467 11.566-0.86146 0.27168-1.3465-0.89367-1.4579-0.92874-0.0888-2.124-0.0888-2.6561 0-1.7664 0.2948-1.002-1.5321 1.6635-3.9755 2.1073-1.9319 4.1329-2.2678 10.18-1.6881 7.0915 0.67968 7.6855 0.50445 9.7882-2.8874 3.1829-5.1346 1.8639-11.3-5.1058-23.866-3.2204-5.8062-6.2232-12.662-6.6726-15.235-0.56034-3.2068-2.9771-6.8979-7.6837-11.735-8.616-8.858-13.109-18.14-15.637-32.305-1.087-6.093-3.087-13.576-4.445-16.629-3.316-7.456-11.581-15.595-15.836-15.595-2.48 0-8.009 2.633-8.009 0.608 0-3.3864 9.0448-11.515 12.136-11.515 1.2689 0 4.5843-1.2271 7.3673-2.7268 2.783-1.5 6.496-2.727 8.25-2.727 6.0406 0 14.066 5.4382 20.4 13.824 3.959 5.2413 8.4944 9.4384 12.627 11.686 11.695 6.3586 25.169 16.803 29.183 22.621 5.4911 7.9584 9.4934 16.587 16.879 36.389 6.5478 17.555 18.106 41.853 26.952 56.657 4.4075 7.3765 7.9898 14.819 5.806 14.819-3.3252 0-13.785-8.2049-21.277-17.437l-5.6635-6.9788 0.95054 10.722c0.52281 5.8972 2.0556 14.937 3.4062 20.088 1.9282 7.3545 2.1605 10.28 2.1268 11.397-0.1205 3.9865-1.0576 0.44845-2.2506 0.0482-2.1971-0.73706-2.5798-0.245-2.5798 3.3166 0 1.7629-0.2269 5.4066-0.63767 6.0152-0.74011 1.0965-2.0771-2.1508-3.7593-4.9008z"/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Eagle silhouette 6</dc:title>
+        <dc:date>2013-04-25T00:17:03</dc:date>
+        <dc:description>Eagle, perching, silhouette</dc:description>
+        <dc:source>http://openclipart.org/detail/177438/eagle-silhouette-6-by-serioustux-177438</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SeriousTux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Eagle</rdf:li>
+            <rdf:li>perching</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

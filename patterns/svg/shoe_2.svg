@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg4503" viewBox="0 0 194.65 357.41" version="1.1">
+  <g id="layer1" transform="translate(-136.62 -103.76)">
+    <path id="path4527" stroke="#000" stroke-width="1.8676px" d="m166.62 449.11c5.5584 0.44467 11.117 0.88935 16.675 1.334 2.6579-17.139-13.898-69.822 8.0041-51.359 11.417 14.501 14.371 32.873 19.334 49.763 10.565 14.32 30.811 11.659 46.427 10.154 18.486-3.3644 37.011-7.5452 54.692-13.897 9.4481-4.0416 30.064-15.543 10.34-20.156-16.56-11.646-28.401 14.041-45.813 6.172-17.488-3.1914-22.647-21.567-25.401-36.575-3.0833-15.014-4.0209-31.225-9.5114-45.07-10.176-67.212-9.5695-137.48-14.717-205.85-15.195-14.045-28.541-32.815-49.429-38.39-19.83-3.8179-43.13 13.155-39.231 34.61 1.7924 45.723 12.702 90.516 23.507 134.79 4.9396 17.721 13.148 36.923 4.7376 55.018-9.2144 13.973-13.992 31.14-10.377 47.784 4.4682 17.572 11.621 34.813 10.676 53.353-0.0623 6.1054 0.18396 12.212 0.0858 18.319h-0.00001z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Shoe silhouette</dc:title>
+        <dc:date>2010-04-13T01:01:40</dc:date>
+        <dc:description>A silhouette of a woman high heeled shoe.</dc:description>
+        <dc:source>http://openclipart.org/detail/46501/shoe-silhouette-by-laobc</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>laobc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>black &amp; white</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>clothing</rdf:li>
+            <rdf:li>shoe</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
