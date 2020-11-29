@@ -3,7 +3,7 @@ import PIL
 import pyllusion as ill
 
 # Demo
-pattern = PIL.Image.open("patterns/png/snake_7.png")
+pattern = PIL.Image.open("patterns/final/snake_7.png")
 imgs = []
 for alpha in [60, 70, 80]:
     for blur in [1, 2, 4]:
@@ -37,7 +37,7 @@ new.save("demo_snake.png")
 
 
 # Profile
-pattern = PIL.Image.open("patterns/png/snake_7.png")
+pattern = PIL.Image.open("patterns/final/snake_7.png")
 call = """
 ill.pareidolia(
     pattern=pattern,
