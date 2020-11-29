@@ -5,3 +5,4 @@ In order to add a new stimuli, one can simply download an `.svg` image and put i
 Websites:
 
 - [freesvg.org](https://freesvg.org/search/)
+- [svgrepo](https://www.svgrepo.com/)
