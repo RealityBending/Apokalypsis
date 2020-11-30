@@ -11,3 +11,7 @@ An implicit personality task based on the predictive coding
 ### Face
 
 ![](demo_face.png)
+
+### Skull
+
+![](demo_skull.png)

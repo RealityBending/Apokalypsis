@@ -46,7 +46,8 @@ def make_demo(file="patterns/png/snake_7.png", name="snake", alpha=[60, 70, 80],
     new.save("demo_" + name + ".png")
 
 # make_demo(file="patterns/png/snake_7.png", name="snake", alpha=[60, 70, 80], blur=[1, 2, 4])
-make_demo(file="patterns/faces/full_168_m_f_f_a.png", name="face", alpha=[20, 30, 40], blur=[1, 2, 3])
+# make_demo(file="patterns/faces/full_168_m_f_f_a.png", name="face", alpha=[20, 30, 40], blur=[1, 2, 3])
+make_demo(file="patterns/png/skull_5.png", name="skull", alpha=[50, 65, 80], blur=[1, 2, 3])
 
 
 # # Profile

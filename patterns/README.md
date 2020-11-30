@@ -6,7 +6,8 @@ Websites for SVGs
 
 - [freesvg.org](https://freesvg.org/search/)
 - [svgrepo](https://www.svgrepo.com/)
+- [openclipart](https://openclipart.org/)
 
-### Faces 
+### Faces
 
 - [FACES database](https://faces.mpdl.mpg.de/imeji/)

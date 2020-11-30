@@ -35,6 +35,6 @@ for(file in files){
   # plot(density(as.matrix(arr[, , 1:3])))
 
   # render it into a bitmap array
-  png::writePNG(arr, paste0("final/", gsub(".svg", ".png", file)))
+  png::writePNG(arr, paste0("png/", gsub(".svg", ".png", file)))
 }
 
